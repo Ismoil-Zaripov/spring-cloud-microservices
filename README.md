@@ -1,1 +1,6 @@
 # spring-cloud-microservices
+
+### SERVER PORT
+- API GATEWAY: 8080
+- USER SERVICE: 8081
+- FILE SERVICE: 8082
